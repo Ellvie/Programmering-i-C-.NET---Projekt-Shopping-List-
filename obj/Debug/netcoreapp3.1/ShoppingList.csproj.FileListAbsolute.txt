@@ -1,0 +1,14 @@
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.exe
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.deps.json
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.json
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.runtimeconfig.dev.json
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\emeli\source\repos\ShoppingList\bin\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfoInputs.cache
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.AssemblyInfo.cs
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.dll
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.pdb
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.genruntimeconfig.cache
+C:\Users\emeli\source\repos\ShoppingList\obj\Debug\netcoreapp3.1\ShoppingList.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwQl74AGzEqqydhmnEEoEOG+zVlkX0M/+i50ljsPplmKPEdgcs5fjRdUYZI827tiIwFAQ/0jKOwHXU2q22UteA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emeli\\source\\repos\\ShoppingList\\ShoppingList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emeli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
